@@ -8,6 +8,7 @@
 #include <sys/mman.h>
 
 #include <iostream>
+#include <cstring>
 
 
 using func_t = int (*)(int);
